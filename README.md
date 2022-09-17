@@ -1,10 +1,5 @@
 # Demo
-
-
-
-
-
-some jej!
+I am learning Github dumass
 
 
 
